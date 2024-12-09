@@ -4,4 +4,4 @@ Currently learning C++/rust 🦀
 
 RIP Terry A. Davis🐐🪦
 
-#Vim > Emacs
+Vim > Emacs
