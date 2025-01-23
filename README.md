@@ -5,3 +5,5 @@ Currently learning C++/rust 🦀
 RIP Terry A. Davis🐐🪦
 
 Vim > Emacs
+
+My Portfolio >> https://du0o.github.io/TedsPortfolio/index.html
